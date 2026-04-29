@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name]! 👋
+## Hi, I'm Ritesh ! 👋
 
 I am a **Computer Engineer** passionate about building scalable web applications and developing intelligent systems using AI and Natural Language Processing. With a strong foundation in full-stack development, I focus on bridging the gap between complex AI models and production-ready software.
 
@@ -6,8 +6,8 @@ I am a **Computer Engineer** passionate about building scalable web applications
 
 ### 🛠️ Featured Projects
 
-*   **[SevaBot](link-to-repo):** A Nepali language RAG-based chatbot designed for efficient information retrieval from documents. (Major Project)
-*   **[Image Colorization GAN](link-to-repo):** Leveraging Generative Adversarial Networks to restore color to grayscale images. (Minor Project)
+*   **[SevaBot](https://github.com/Ritesh078bct/SevaBot-A-RAG-based-nepali-chatbot):** A Nepali language RAG-based chatbot designed for efficient information retrieval from documents. (Major Project)
+*   **[Image Colorization GAN](https://github.com/Ritesh078bct/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE):** Leveraging Generative Adversarial Networks to restore color to grayscale images. (Minor Project)
 
 ---
 
