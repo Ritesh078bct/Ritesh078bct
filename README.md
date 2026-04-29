@@ -25,6 +25,6 @@ I am a **Computer Engineer** passionate about building scalable web applications
 *   **Open Source:** Exploring contributions to Python-based NLP libraries.
 
 ### 💬 Let's Connect
-*   📫 **Email:** [riteshsahaniwp123@gmail.com]
-*   🔗 **LinkedIn:** [https://www.linkedin.com/in/ritesh-sahani-548a4219a/]
-*   🌐 **Portfolio:** [your-portfolio-link.com](https://www.riteshsahani.com.np/)
+*   📫 **Email:** riteshsahaniwp123@gmail.com
+*   🔗 **LinkedIn:** https://www.linkedin.com/in/ritesh-sahani-548a4219a/
+*   🌐 **Portfolio:**https://www.riteshsahani.com.np
