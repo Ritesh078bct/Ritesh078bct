@@ -27,4 +27,4 @@ I am a **Computer Engineer** passionate about building scalable web applications
 ### 💬 Let's Connect
 *   📫 **Email:** [riteshsahaniwp123@gmail.com]
 *   🔗 **LinkedIn:** [https://www.linkedin.com/in/ritesh-sahani-548a4219a/]
-*   ⚡ **Fun Fact:** I enjoy optimizing my Linux workflow and troubleshooting terminal mysteries.
+*   🌐 **Portfolio:** [your-portfolio-link.com](https://www.riteshsahani.com.np/)
