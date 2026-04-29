@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm [Your Name]! 👋
 
-<!--
-**Ritesh078bct/Ritesh078bct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineer** passionate about building scalable web applications and developing intelligent systems using AI and Natural Language Processing. With a strong foundation in full-stack development, I focus on bridging the gap between complex AI models and production-ready software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Featured Projects
+
+*   **[SevaBot](link-to-repo):** A Nepali language RAG-based chatbot designed for efficient information retrieval from documents. (Major Project)
+*   **[Image Colorization GAN](link-to-repo):** Leveraging Generative Adversarial Networks to restore color to grayscale images. (Minor Project)
+
+---
+
+### 🚀 Technical Skills
+
+*   **Backend:** Python, Django, Django REST Framework
+*   **Frontend:** React.js, JavaScript, HTML5/CSS3
+*   **AI/ML:** RAG Systems, GANs, NLP, PyTorch/TensorFlow
+*   **Tools:** Linux (Ubuntu), Git/GitHub, LaTeX, PostgreSQL
+
+---
+
+### 🔭 Current Focus
+*   **Learning:** Advanced System Design and Cloud Deployment (AWS/Docker).
+*   **Open Source:** Exploring contributions to Python-based NLP libraries.
+
+### 💬 Let's Connect
+*   📫 **Email:** [riteshsahaniwp123@gmail.com]
+*   🔗 **LinkedIn:** [https://www.linkedin.com/in/ritesh-sahani-548a4219a/]
+*   ⚡ **Fun Fact:** I enjoy optimizing my Linux workflow and troubleshooting terminal mysteries.
