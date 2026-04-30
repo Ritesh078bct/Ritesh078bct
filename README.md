@@ -1,30 +1,63 @@
-## Hi, I'm Ritesh ! 👋
+<h1 align="center">Hi 👋, I'm Ritesh Sahani</h1>
 
-I am a **Computer Engineer** passionate about building scalable web applications and developing intelligent systems using AI and Natural Language Processing. With a strong foundation in full-stack development, I focus on bridging the gap between complex AI models and production-ready software.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Computer+Engineer;Full-Stack+Developer;AI+%26+ML+Enthusiast;Backend+Systems+Learner" />
+</p>
 
----
-
-### 🛠️ Featured Projects
-
-*   **[SevaBot](https://github.com/Ritesh078bct/SevaBot-A-RAG-based-nepali-chatbot):** A Nepali language RAG-based chatbot designed for efficient information retrieval from documents. (Major Project)
-*   **[Image Colorization GAN](https://github.com/Ritesh078bct/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE):** Leveraging Generative Adversarial Networks to restore color to grayscale images. (Minor Project)
-
----
-
-### 🚀 Technical Skills
-
-*   **Backend:** Python, Django, Django REST Framework
-*   **Frontend:** React.js, JavaScript, HTML5/CSS3
-*   **AI/ML:** RAG Systems, GANs, NLP, PyTorch/TensorFlow
-*   **Tools:** Linux (Ubuntu), Git/GitHub, LaTeX, PostgreSQL
+<p align="center">
+  <a href="mailto:riteshsahaniwp123@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-sahani-548a4219a/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.riteshsahani.com.np" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🔭 Current Focus
-*   **Learning:** Advanced System Design and Cloud Deployment (AWS/Docker).
-*   **Open Source:** Exploring contributions to Python-based NLP libraries.
+## 🧠 About Me
 
-### 💬 Let's Connect
-*   📫 **Email:** riteshsahaniwp123@gmail.com
-*   🔗 **LinkedIn:** https://www.linkedin.com/in/ritesh-sahani-548a4219a/
-*   🌐 **Portfolio:** https://www.riteshsahani.com.np
+- 💻 Computer Engineer with strong interest in **backend systems and scalable architectures**
+- 🤖 Exploring **AI/ML, NLP, and real-world intelligent applications**
+- 📚 Continuously learning and experimenting with new technologies
+- ⚙️ Focused on writing clean, efficient, and production-ready code
+
+---
+
+## 🚀 Projects
+
+🔹 **[SevaBot](https://github.com/Ritesh078bct/SevaBot-A-RAG-based-nepali-chatbot)**  
+> Nepali **RAG chatbot** for document-based information retrieval.
+
+🔹 **[Image Colorization GAN](https://github.com/Ritesh078bct/IMAGE-COLORIZATION-VIA-CGANS-USING-RESNET-18-BACKED-U-NET-ARCHITECTURE)**  
+> **cGAN + ResNet-18 U-Net** for realistic image colorization.
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,git,linux,tensorflow,pytorch" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh078bct&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh078bct&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ritesh078bct&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
